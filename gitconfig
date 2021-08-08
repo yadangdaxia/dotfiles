@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matteson211@hotmail.com
+	name = Adam Matteson
